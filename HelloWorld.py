@@ -7,4 +7,4 @@ def index():
     return 'Hello World'
 
 if __name__=="__main__":
-    app.run()
+    app.run(10.200.1.92:5000)
